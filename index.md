@@ -1,7 +1,4 @@
-David Dahl
-==========
-
-ddahl@nulltxt.se
+ddahl <at> crypto <dot> im
 
 Summary
 -------
