@@ -90,7 +90,8 @@ Experience
 
     **_Software Engineer_**
 
-    - Built Python / Django / ffmpeg-based tools for training artists, software engineers and other technical staff at ILM, LucasArts, Lucas Animation and Lucasfilm
+    - Re-factored the in-house special effects teaching CMS, LOIS
+    - LOIS is built in Python, Django, Postgresql and ffmpeg for training artists, software engineers and other technical staff at ILM / Lucasfilm
 
 Skills
 ------
