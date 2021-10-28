@@ -6,38 +6,44 @@ ddahl@nulltxt.se
 Summary
 -------
 
-*   Long time `HTML superfan`, python *nerd*, `node.js` *enthusiast*, Bitcoin *maximalist*, engineer & researcher
+*   Long time `HTML superfan`, python *nerd*, `node.js` *enthusiast*, `Bitcoin` *maximalist*, engineer & researcher
 
 Experience
 ----------
 
-*   **F5** <https://f5.com> (Seattle WA - remote)
+*   **F5** <https://f5.com> 
+
+    - Jun 2020 to present
    
-    **_Senior Software Engineer, Volterra Security Team_** Apr 2021 to present
+    **_Senior Software Engineer, VCS Security Team_**
     
-    * _F5 Acquired Volterrra and the Cloud Services teams were reassigned to Volterra & other business units._
+    * _F5 Acquired Volterrra (VCS) and the Cloud Services teams were reassigned to Volterra & other business units_
     
     - Continued development of CI automation tools, concentrating on security and best practices
     - Built a set of daily CI pipelines & associated containers that automate adding various security scanning jobs to all VCS/F5 Gitlab projects
     - Integrated with GCP, AWS, Azure and other cloud systems as needed to collect and analyse developer, IAM and project data
     
-    **_Senior Software Engineer, F5 Cloud Services Orchestration Team_** Jun 2020 to Apr 2021
+    **_Senior Software Engineer, F5 Cloud Services_**
     
     - Gitlab CICD meta-programming: automating security, privacy and compliance into the developer experience at F5
     - Developed a suite of tools to automate and nudge developer best practices inside Gitlab CI pipelines
 
-*   **GROVE COLLABORATIVE** <https://grove.co> (San Francisco CA,  Durham NC)
+*   **GROVE COLLABORATIVE** <https://grove.co> 
+    
+    - Mar 2019 - Jun 2020
 
-    **_Senior Software Engineer, Team Lead_**, March 2019 - June 2020
+    **_Senior Software Engineer, Team Lead_**
 
     - Helping scale Grove's database, engineering tools, techniques and team
       - (Python, Postgresql, Django, Docker, Redis, AWS, RDS, Heroku)
     - Created automated docker-based developer environment
     - Integrated fraud-detection services into Grove's core application
 
-*   **IBM** <https://ibm.com> (Durham, NC)
+*   **IBM** <https://ibm.com> 
 
-    **_Software Engineering Researcher_**, Oct 2017 - March 2019
+    - Oct 2016 - Mar 2019
+
+    **_Software Engineering Researcher_**
 
     - Designed and implemented systems to help IBM with internal tools and web standards
     - Worked with IPFS decentralized P2P filesystem & related technology
@@ -45,22 +51,26 @@ Experience
     - Implemented *GDPR* tracking tool which surfaces compliance status for division applications to management
     - Created application based on Lighthouse & browser `User Timing API` to understand and rectify web page performance issues
 
-    **_Advisory Software Engineer_**, Oct 2016 - Oct 2017
+    **_Advisory Software Engineer_**
 
     - Built parts of IBM.com & IBM.com/search using Node, SearchKit, TypeScript and React
 
-*   **SPIDEROAK** <https://spideroak.com> (Kansas City MO)
+*   **SPIDEROAK** <https://spideroak.com>
+    
+    - Sept 2013 - Mar 2016
 
-    **_Director, Crypton project_**, Sept 2013 - Mar 2016
+    **_Director, Crypton project_**
 
     - Directed an engineering team that built a privacy framework for mobile devices
     - Wrote code for the Crypton framework (Node.js, PostgreSQL) <https://bit.ly/2JdzsGW>
     - Created *Kloak* private social network application for iOS and Android
     - Coordinated `Zooko`-led (Least Authority, Inc) security review and remediation of Crypton framework
 
-*   **MOZILLA CORPORATION** <https://mozilla.org> (Mountain View CA)
+*   **MOZILLA CORPORATION** <https://mozilla.org>
+    
+    - Jan 2009 to September 2013
 
-    **_Senior Software Engineer, Privacy_**, Apr 2012 - Sept 2013
+    **_Senior Software Engineer, Privacy_**
 
     - Contributed to new and existing browser features and WebAPIs to increase user privacy
     - Collaborated with the Identity team for FirefoxOS
@@ -69,7 +79,7 @@ Experience
     - Implemented `window.crypto.getRandomValues`
       - <https://mzl.la/2JhP0JO> <https://mzl.la/2HkvQRR>
 
-    **_Firefox Engineer_**, Jan 2009 - Apr 2012
+    **_Firefox Engineer_**
 
     - Created front-end browser features, developer tools, identity APIs
     - Implemented the `Web Console` developer tool
@@ -77,9 +87,11 @@ Experience
     - Wrote code for bookmarking subsystem, awesomebar
     - Worked on Firefox SafeBrowsing client code
 
-*   **INDUSTRIAL LIGHT + MAGIC** <https://ilm.com> (San Francisco, CA)
+*   **INDUSTRIAL LIGHT + MAGIC** <https://ilm.com>
 
-    **_Software Engineer_**, Jun 2007 - Dec 2008
+    - Jun 2007 - Dec 2008
+
+    **_Software Engineer_**
 
     - Built Python / Django / ffmpeg-based tools for training artists, software engineers and other technical staff at ILM, LucasArts, Lucas Animation and Lucasfilm
 
@@ -95,6 +107,8 @@ Skills
 *   Raspberry Pi, hardware sensors, etc.
     - <https://github.com/daviddahl/radar>
 *   Bitcoin, Litecoin, IPFS and related tools / frameworks
+*   Litecoin mining (2013/ 2014)
+*   BTC full node operator
 *   Browser extensions
     - <https://github.com/daviddahl/nuke-dialog>
 *   Evaluation and recommendations for technology, teams, business processes
