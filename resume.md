@@ -133,11 +133,3 @@ Awards
 ------
 
 *   2018 IBM: **Eminence and Excellence in Engineering Award**
-
-Links
------
-
-*   Website
-    - <https://txt.ist>
-*   Latest Résumé
-    -   <https://txt.ist/David_Dahl_resume.pdf>
