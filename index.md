@@ -1,4 +1,4 @@
-`ddahl at crypto dot im`
+`ddahl @ crypto dot im`
 
 Summary
 -------
