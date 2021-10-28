@@ -3,7 +3,7 @@
 Summary
 -------
 
-*   Long time `HTML superfan`, python *nerd*, `node.js` *enthusiast*, `Bitcoin` *maximalist*, engineer & researcher
+*   Long time `HTML` *superfan*, `python` *nerd*, `node.js` *enthusiast*, `Bitcoin` *maximalist*, engineer & researcher
 
 Experience
 ----------
