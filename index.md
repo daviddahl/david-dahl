@@ -14,11 +14,12 @@ Experience
    
     **_Senior Software Engineer, VCS Security Team_**
     
-    * _F5 Acquired Volterrra (VCS) and the Cloud Services teams were reassigned to Volterra & other business units_
+    * _F5 Acquired Volterra <https://volterra.io> and Cloud Services teams were folded into Volterra & other BUs_
     
-    - Continued development of CI automation tools, concentrating on security and best practices
+    - Design & development of CI automation tools, concentrating on developer security and best practices
     - Built a set of daily CI pipelines & associated containers that automate adding various security scanning jobs to all VCS/F5 Gitlab projects
-    - Integrated with GCP, AWS, Azure and other cloud systems as needed to collect and analyse developer, IAM and project data
+    - Integration with with GCP, AWS, Azure and other cloud systems as needed to collect and analyse developer, IAM and project data
+    - Designing bigger-picture application to leverage collected data for security team `single-view`, exposing each developer's `footprint` on all clouds 
     
     **_Senior Software Engineer, F5 Cloud Services_**
     
