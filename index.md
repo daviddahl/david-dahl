@@ -11,6 +11,15 @@ Experience
 *   **F5** <https://f5.com> 
 
     - Jun 2020 to present
+ 
+    **_Principal Software Engineer, Office of the CTO_**
+
+    * _F5 Greenhouse: innovation team_**
+
+    - Design and build innovation tools
+    - Intake of Innovation ideas, CICD automation tools to help innovation teams focus
+    - Build AI/ML Developer tools to help F5 employees leverage Large Language Models in everyday work
+    - Lead and mentor US and offshore F5 engineering teams 
    
     **_Senior Software Engineer, VCS Security Team_**
     
