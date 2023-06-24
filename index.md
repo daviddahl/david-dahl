@@ -14,7 +14,7 @@ Experience
  
     **_Principal Software Engineer, Office of the CTO_**
 
-    * _F5 Greenhouse: innovation team_**
+    * _F5 Greenhouse: Innovation Team_**
 
     - Design and build innovation tools
     - Intake of Innovation ideas, CICD automation tools to help innovation teams focus
