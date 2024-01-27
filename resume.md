@@ -14,12 +14,13 @@ david@ddahl.com
 
 - Design and implementation of an internal `F5-GPT` chatbot, conversation persistence layer and vector query tools
 - `F5-GPT` is used by the entire enterprise
-- Design and build innovation tool
-- Tools for the intake of innovation ideas, CICD automation tools to help innovation teams focus
-- Lead and mentor US and offshore F5 engineering teams
+- Design and build innovation tools that manage the flow of ideas that become software POCs
+- Engineering work and leadership on innovative software POCs
+- Lead and mentor US and offshore engineering teams
 
-#### Senior Software Engineer, VCS Security Team
+#### Senior Software Engineer, (Volterra) Security Team
 
+- (Volterra was acquired by F5)
 - Design & development of CI automation tools, concentrating on developer security and best practices
 - Built a set of daily CI pipelines & associated containers that automate adding various security scanning jobs to all VCS/F5 Gitlab projects
 - Integration with with GCP, AWS, Azure and other cloud systems as needed to collect and analyse developer, IAM and project data
