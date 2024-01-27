@@ -8,7 +8,7 @@ david@ddahl.com
 
 ## Experience
 
-### [F5](https://f5.com)
+### https://f5.com
 
 #### Jun 2020 to present
 
@@ -34,7 +34,7 @@ david@ddahl.com
 - Gitlab CICD meta-programming: automating security, privacy and compliance into the developer experience at F5
 - Developed a suite of tools to automate and nudge developer best practices inside Gitlab CI pipelines
 
-### [GROVE COLLABORATIVE](https://grove.co)
+### https://grove.co
 
 #### 2019 - 2020
 
@@ -44,7 +44,7 @@ david@ddahl.com
 - Created automated docker-based developer environment
 - Integrated fraud-detection services into Grove's core application
 
-### [IBM](https://ibm.com)
+### https://ibm.com
 
 #### 2016 - 2019
 
@@ -60,7 +60,7 @@ david@ddahl.com
 
 - Built parts of IBM.com & IBM.com/search using Node, SearchKit, TypeScript and React
 
-### [SPIDEROAK](https://spideroak.com)
+### https://spideroak.com
 
 #### 2013 - 2016
 
@@ -71,7 +71,7 @@ david@ddahl.com
 - Created *Kloak* private social network application for iOS and Android
 - Coordinated `Zooko`-led (Least Authority, Inc) security review and remediation of Crypton framework
 
-### [MOZILLA CORPORATION](https://mozilla.org)
+### https://mozilla.org
 
 #### 2009 - 2013
 
@@ -93,7 +93,7 @@ See: https://mzl.la/2JhP0JO  https://mzl.la/2HkvQRR
 - Wrote code for bookmarking subsystem, awesomebar
 - Worked on Firefox SafeBrowsing client code
 
-### [INDUSTRIAL LIGHT + MAGIC](https://ilm.com)
+### https://ilm.com
 
 #### 2007 - 2008
 
