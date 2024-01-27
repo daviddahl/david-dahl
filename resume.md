@@ -40,7 +40,7 @@ david@ddahl.com
 - Created automated docker-based developer environment
 - Integrated fraud-detection services into Grove's core application
 
-### [https://ibm.com](IBM.com)
+### [IBM](https://ibm.com)
 
 #### 2016 - 2019
 
@@ -56,7 +56,7 @@ david@ddahl.com
 
 - Built parts of IBM.com & IBM.com/search using Node, SearchKit, TypeScript and React
 
-### [https://spideroak.com](SPIDEROAK)
+### [SPIDEROAK](https://spideroak.com)
 
 #### 2013 - 2016
 
@@ -67,7 +67,7 @@ david@ddahl.com
 - Created *Kloak* private social network application for iOS and Android
 - Coordinated `Zooko`-led (Least Authority, Inc) security review and remediation of Crypton framework
 
-### [https://mozilla.org](MOZILLA CORPORATION)
+### [MOZILLA CORPORATION](https://mozilla.org)
 
 #### 2009 - 2013
 
@@ -103,6 +103,7 @@ See: (https://mzl.la/2JrzPBg) (https://mzl.la/1IOQVno)
 ## Skills
 
 - Linux, Python, JavaScript, CSS, HTML, SQL, automated testing
+- Langchain, PGVector, OpenAI APIs, Huggingface / Open Source LLMs
 - Node, Express, npm & yarn, webpack, TypeScript, React, Django, FastAPI, SQLModel
 - Postgresql (including replication), MySQL, SQLite, Redis, IndexedDB
 - Heroku, AWS, Azure, GCP, Gitlab services & APIs, Docker
