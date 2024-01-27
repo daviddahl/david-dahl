@@ -6,7 +6,7 @@ david@ddahl.com
 
 ## Experience
 
-### (F5)[https://f5.com]
+### [F5](https://f5.com)
 
 #### Jun 2020 to present
 
@@ -30,7 +30,7 @@ david@ddahl.com
 - Gitlab CICD meta-programming: automating security, privacy and compliance into the developer experience at F5
 - Developed a suite of tools to automate and nudge developer best practices inside Gitlab CI pipelines
 
-### (GROVE COLLABORATIVE)[https://grove.co]
+### [GROVE COLLABORATIVE](https://grove.co)
 
 #### 2019 - 2020
 
@@ -40,7 +40,7 @@ david@ddahl.com
 - Created automated docker-based developer environment
 - Integrated fraud-detection services into Grove's core application
 
-### (https://ibm.com)[IBM.com]
+### [https://ibm.com](IBM.com)
 
 #### 2016 - 2019
 
@@ -48,7 +48,7 @@ david@ddahl.com
 
 - Designed and implemented systems to help IBM with internal tools and web standards
 - Worked with IPFS decentralized P2P filesystem & related technology
-- Created POC: `IPFS Social Proof`: <https://bit.ly/2Pc7GkB>
+- Created POC: [IPFS Social Proof](https://bit.ly/2Pc7GkB)
 - Implemented *GDPR* tracking tool which surfaces compliance status for division applications to management
 - Created application based on Lighthouse & browser `User Timing API` to understand and rectify web page performance issues
 
@@ -56,7 +56,7 @@ david@ddahl.com
 
 - Built parts of IBM.com & IBM.com/search using Node, SearchKit, TypeScript and React
 
-### (https://spideroak.com)[SPIDEROAK]
+### [https://spideroak.com](SPIDEROAK)
 
 #### 2013 - 2016
 
@@ -67,7 +67,7 @@ david@ddahl.com
 - Created *Kloak* private social network application for iOS and Android
 - Coordinated `Zooko`-led (Least Authority, Inc) security review and remediation of Crypton framework
 
-### (https://mozilla.org)[MOZILLA CORPORATION]
+### [https://mozilla.org](MOZILLA CORPORATION)
 
 #### 2009 - 2013
 
@@ -80,7 +80,7 @@ david@ddahl.com
 See (https://bit.ly/2JcCS0M) (https://mzl.la/2JhUzb2)
 
 Implemented `window.crypto.getRandomValues`
-[https://mzl.la/2JhP0JO] [https://mzl.la/2HkvQRR]
+(https://mzl.la/2JhP0JO] (https://mzl.la/2HkvQRR]
 
 ##### Firefox Engineer
 
@@ -91,7 +91,7 @@ See: (https://mzl.la/2JrzPBg) (https://mzl.la/1IOQVno)
 - Wrote code for bookmarking subsystem, awesomebar
 - Worked on Firefox SafeBrowsing client code
 
-### (https://ilm.com)[INDUSTRIAL LIGHT + MAGIC]
+### [INDUSTRIAL LIGHT + MAGIC](https://ilm.com)
 
 #### 2007 - 2008
 
@@ -148,7 +148,7 @@ See: (https://mzl.la/2JrzPBg) (https://mzl.la/1IOQVno)
 ## Referenced Work
 
 ### W3C Web Cryptography API Working Group covered
-- (https://amzn.to/2ZfTWXh)[`Engineering Rules` Global Standard Setting since 1880]
+- [Engineering Rules, Global Standard Setting since 1880](https://amzn.to/2ZfTWXh)
 - Joanne Yates and Craig Murphy, 2019
 - Ch. 8, `Development of the W3C WebCrypto API Standard, 2012-2017`
 
