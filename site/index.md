@@ -17,6 +17,7 @@ david@ddahl.com
 - Design and implementation of an AI Assistant service that product teams can easily leverage
 - Design and implementation of the internal `F5-GPT` chatbot, conversation persistence layer and vector query tools
 - `F5-GPT` is used by the entire enterprise
+- Actively building Web Component-driven frontends `sans` build processes liike Babel, etc.
 - Design and build innovation tools that manage the flow of ideas that become software POCs
 - Engineering work and leadership on innovative software POCs
 - Lead and mentor US and offshore engineering teams
