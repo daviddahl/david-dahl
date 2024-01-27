@@ -112,8 +112,10 @@ See: https://mzl.la/2JrzPBg https://mzl.la/1IOQVno
 - Swift, C, C++, make, Android toolchain, iOS toolchain
 - Raspberry Pi, hardware sensors, see: https://github.com/daviddahl/radar
 - Bitcoin, Litecoin, IPFS and related tools / frameworks
-- Litecoin mining (2013/ 2014)
-- BTC full node operator
+- Shitcoin consulting work: Eth mempool / trading experimentation
+- Litecoin mining (2013 - 2014)
+- BTC full node operator, lightning network enthusiast
+- Nostr application developer
 - Browser extensions: https://github.com/daviddahl/nuke-dialog
 - Evaluation and recommendations for technology, teams, business processes
 
