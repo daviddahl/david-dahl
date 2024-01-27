@@ -65,7 +65,7 @@ david@ddahl.com
 ##### Director, Crypton project
 
 - Directed an engineering team that built a privacy framework for mobile devices
-- Wrote code for the Crypton framework (Node.js, PostgreSQL) <https://bit.ly/2JdzsGW>
+- Wrote code for the Crypton framework (Node.js, PostgreSQL) https://bit.ly/2JdzsGW
 - Created *Kloak* private social network application for iOS and Android
 - Coordinated `Zooko`-led (Least Authority, Inc) security review and remediation of Crypton framework
 
@@ -79,16 +79,16 @@ david@ddahl.com
 - Collaborated with the Identity team for FirefoxOS
 - Implemented `DOMCrypt` browser extension, which was used as an initial straw man proposal for the `W3C Web Cryptography Working Group`
 
-See (https://bit.ly/2JcCS0M) (https://mzl.la/2JhUzb2)
+See https://bit.ly/2JcCS0M   https://mzl.la/2JhUzb2
 
 Implemented `window.crypto.getRandomValues`
-(https://mzl.la/2JhP0JO] (https://mzl.la/2HkvQRR]
+See: https://mzl.la/2JhP0JO  https://mzl.la/2HkvQRR
 
 ##### Firefox Engineer
 
 - Created front-end browser features, developer tools, identity APIs
 - Implemented the `Web Console` developer tool
-See: (https://mzl.la/2JrzPBg) (https://mzl.la/1IOQVno)
+See: https://mzl.la/2JrzPBg https://mzl.la/1IOQVno
 
 - Wrote code for bookmarking subsystem, awesomebar
 - Worked on Firefox SafeBrowsing client code
@@ -110,11 +110,11 @@ See: (https://mzl.la/2JrzPBg) (https://mzl.la/1IOQVno)
 - Postgresql (including replication), MySQL, SQLite, Redis, IndexedDB
 - Heroku, AWS, Azure, GCP, Gitlab services & APIs, Docker
 - Swift, C, C++, make, Android toolchain, iOS toolchain
-- Raspberry Pi, hardware sensors, see: (https://github.com/daviddahl/radar)
+- Raspberry Pi, hardware sensors, see: https://github.com/daviddahl/radar
 - Bitcoin, Litecoin, IPFS and related tools / frameworks
 - Litecoin mining (2013/ 2014)
 - BTC full node operator
-- Browser extensions: (https://github.com/daviddahl/nuke-dialog)
+- Browser extensions: https://github.com/daviddahl/nuke-dialog
 - Evaluation and recommendations for technology, teams, business processes
 
 ## Talks / Writing / Teaching
@@ -122,31 +122,31 @@ See: (https://mzl.la/2JrzPBg) (https://mzl.la/1IOQVno)
 ### Defcon 23: Crypto Village: `Anti-social Networking`
 
 - Presented on `Kloak`; an application I built that resembles Twitter but is `end to end encrypted`
-- (https://bit.ly/2JoSNbu)
+- https://bit.ly/2JoSNbu
 
 ### Future Insights Live: `Privacy is a UX Problem`
 
-- Privacy is not simply a technical issue; more designers are needed to solve privacy application issues (https://bit.ly/2Jr80Jd)
+- Privacy is not simply a technical issue; more designers are needed to solve privacy application issues https://bit.ly/2Jr80Jd
 
 ### Hack in the Box Malaysia: `Crypton Workshop`
 
-- (https://bit.ly/2JaB2JC)
+- https://bit.ly/2JaB2JC
 - Live-coding workshop on `Crypton`
 
 ### `Crypton Whitepaper`
 
 - Crypton paper produced for `Hack In The Box` conference
-- (https://bit.ly/2Jbubjg)
+- https://bit.ly/2Jbubjg
 
 ### `Kloak Private Social Networking Application:` Slides
 
 - Produced for **`Investors and Management`**
-- (https://bit.ly/2sorG6P)
+- https://bit.ly/2sorG6P
 
 ### `Cato Institute: "NSA Surveillance: What We Know; What to Do About It"`
 
 - Technology panel
-- (https://bit.ly/2xO8lAS)
+- https://bit.ly/2xO8lAS
 
 ## Referenced Work
 
