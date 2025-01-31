@@ -12,12 +12,15 @@ david@ddahl.com
 
 #### Jun 2020 to present
 
-#### Principal Software Engineer, AI Team & Greenhouse Innovation Team
+##### Senior Principal Software Engineer, Office of the CTO
+
+- Driving strategic and long-term software projects in the Gen AI, Observability, Programability and various other spaces for F5 BIG-IP, NGINX and Distributed Cloud offerings.
+
+##### Principal Software Engineer, AI Team & Greenhouse Innovation Team
 
 - Design and implementation of an AI Assistant service that product teams can easily leverage
 - Design and implementation of the internal `F5-GPT` chatbot, conversation persistence layer and vector query tools
 - `F5-GPT` is used by the entire enterprise
-- Actively building Web Component-driven frontends `sans` build processes like Babel, etc.
 - Design and build innovation tools that manage the flow of ideas that become software POCs
 - Engineering work and leadership on innovative software POCs
 - Lead and mentor US and offshore engineering teams
@@ -39,7 +42,7 @@ david@ddahl.com
 
 #### 2019 - 2020
 
-#### Senior Software Engineer, Team Lead
+##### Senior Software Engineer, Team Lead
 
 - Helping scale Grove's database, engineering tools, techniques and team
 - Created automated docker-based developer environment
@@ -49,7 +52,7 @@ david@ddahl.com
 
 #### 2016 - 2019
 
-#### Software Engineering Researcher
+##### Software Engineering Researcher
 
 - Designed and implemented systems to help IBM with internal tools and web standards
 - Worked with IPFS decentralized P2P filesystem & related technology
@@ -57,7 +60,7 @@ david@ddahl.com
 - Implemented *GDPR* tracking tool which surfaces compliance status for division applications to management
 - Created application based on Lighthouse & browser `User Timing API` to understand and rectify web page performance issues
 
-#### Advisory Software Engineer
+##### Advisory Software Engineer
 
 - Built parts of IBM.com & IBM.com/search using Node, SearchKit, TypeScript and React
 
@@ -65,7 +68,7 @@ david@ddahl.com
 
 #### 2013 - 2016
 
-#### Director, Crypton project
+##### Director, Crypton project
 
 - Directed an engineering team that built a privacy framework for mobile devices
 - Wrote code for the Crypton framework (Node.js, PostgreSQL) https://bit.ly/2JdzsGW
@@ -76,7 +79,7 @@ david@ddahl.com
 
 #### 2009 - 2013
 
-#### Senior Software Engineer, Privacy
+##### Senior Software Engineer, Privacy
 
 - Contributed to new and existing browser features and WebAPIs to increase user privacy
 - Collaborated with the Identity team for FirefoxOS
@@ -87,7 +90,7 @@ See https://bit.ly/2JcCS0M   https://mzl.la/2JhUzb2
 Implemented `window.crypto.getRandomValues`
 See: https://mzl.la/2JhP0JO  https://mzl.la/2HkvQRR
 
-#### Firefox Engineer
+##### Firefox Engineer
 
 - Created front-end browser features, developer tools, identity APIs
 - Implemented the `Web Console` developer tool, see: https://mzl.la/2JrzPBg https://mzl.la/1IOQVno
@@ -98,7 +101,7 @@ See: https://mzl.la/2JhP0JO  https://mzl.la/2HkvQRR
 
 #### 2007 - 2008
 
-#### Software Engineer
+##### Software Engineer
 
 - Re-wrote the in-house special effects teaching CMS, LOIS
 - LOIS is built in Python, Django, Postgresql and ffmpeg for training artists, software engineers and other technical staff at ILM / Lucasfilm
@@ -160,4 +163,5 @@ See: https://mzl.la/2JhP0JO  https://mzl.la/2HkvQRR
 
 ## Awards
 
+- 2024 F5: `LeadF5 Award`
 - 2018 IBM: `Eminence and Excellence in Engineering Award`
