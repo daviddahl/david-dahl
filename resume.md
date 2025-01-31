@@ -12,6 +12,10 @@ david@ddahl.com
 
 #### Jun 2020 to present
 
+##### Senior Principal Software Engineer, Office of the CTO
+
+- Driving strategic and long-term software projects in the Gen AI, Observability, Programability and various other spaces for F5 BIG-IP, NGINX and Distributed Cloud offerings.
+
 ##### Principal Software Engineer, AI Team & Greenhouse Innovation Team
 
 - Design and implementation of an AI Assistant service that product teams can easily leverage
